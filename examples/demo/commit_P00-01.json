@@ -1,0 +1,8 @@
+{
+  "request_id": "P00-01",
+  "candidates_count": 10,
+  "candidates_sha256": "40cfe2fbf2f887dff039ad79a7175fe5dca1b89e96c403995ba72014c42d0192",
+  "drand_base": "https://api.drand.sh",
+  "drand_round": 6509265,
+  "committed_at_unix": 1790622571
+}

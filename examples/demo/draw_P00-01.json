@@ -1,0 +1,21 @@
+{
+  "request_id": "P00-01",
+  "candidates_sha256": "40cfe2fbf2f887dff039ad79a7175fe5dca1b89e96c403995ba72014c42d0192",
+  "drand_round": 6509265,
+  "randomness": "8f3a1c9e2b7d4f6a0c5e8b1d3f7a9c2e4b6d8f0a1c3e5b7d9f2a4c6e8b0d1f3a",
+  "k": 3,
+  "selected": [
+    "R-H4TW",
+    "R-M2XA",
+    "R-7K3Q"
+  ],
+  "replacement_queue": [
+    "R-D7UA",
+    "R-Q8ZN",
+    "R-B3VC",
+    "R-K2JS",
+    "R-N5GF",
+    "R-Y6RE",
+    "R-P9LD"
+  ]
+}

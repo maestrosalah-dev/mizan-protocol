@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mizan-protocol"
+version = "0.1.0"
+description = "Tooling for the Mizan open peer-review protocol: verifiable lottery, tamper-evident log, CoI screening"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "Athmani Salah", email = "maestro.salah@gmail.com"}]
+
+[project.scripts]
+mizan = "mizan.__main__:main"
+
+[tool.setuptools]
+packages = ["mizan"]

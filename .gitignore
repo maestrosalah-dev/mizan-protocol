@@ -1,0 +1,6 @@
+# Real identities and private data never enter git
+private/
+*.key
+__pycache__/
+*.pyc
+.venv/
